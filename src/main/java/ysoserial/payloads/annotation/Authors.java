@@ -21,6 +21,7 @@ public @interface Authors {
     String JASINNER = "jasinner";
     String KULLRICH = "kai_ullrich";
     String TINT0 = "_tint0";
+    String PETRUSVIET = "PetrusViet";
     String SCRISTALLI = "scristalli";
     String HANYRAX = "hanyrax";
     String EDOARDOVIGNATI = "EdoardoVignati";
